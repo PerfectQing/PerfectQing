@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PerfectQing
 - 👀 I’m interested in AI and RL.
-- 🌱 I’m currently learning Reinforcement learning and GAN.
+- 🌱 I’m currently learning Reinforcement learning and NLP(An preety newer here).
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
