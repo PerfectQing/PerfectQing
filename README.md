@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PerfectQing
-- 👀 I’m interested in NLP and RL.
-- 🌱 I’m currently learning Reinforcement learning and NLP(An extremely newer here, which means RLer to NLPer).
+- 👀 I’m interested in LLM, NLP and RL.
+- 🌱 I’m currently learning Reinforcement learning and LLM, NLP(Who has worked in LLM for about 2 years).
 - 💞️ I’m looking to collaborate on ...
 - 📫 Email me iamongoing@gmail.com
 <!---
